@@ -1,0 +1,33 @@
+
+p {
+	font-size: 14px;
+}
+
+ul {
+	list-style-type: square;
+	font-family: "Times New Roman";
+	font-size: 13px;
+}
+
+#container{
+	position: relative;
+	width: 745px;
+	left: 225px;
+}
+
+#box-1 {
+	position: absolute;
+	top: 250px;
+	left: 10px;
+}
+
+#box-2 {
+	position: absolute;
+	top: 490px;
+	left:10px;
+}
+
+#text-blue {
+	color: dodgerblue;
+	font-family: "Arial";
+}
